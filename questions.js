@@ -7,13 +7,13 @@ const questions = [
     },
     {
         soal: "",
-        gambar: "mtk6a1-soal-no2.JPG",
+        gambar: "mtk6a1-soal-no2.jpg",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih A"
     },
     {
         soal: "",
-        gambar: "mtk6a1-soal-no3.JPG",
+        gambar: "mtk6a1-soal-no3.jpg",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih D"
     },
@@ -178,6 +178,8 @@ const questions = [
         pilihan: ["0,15", "0,25", "0,35", "0,55"],
         jawabanBenar: "0,25"
     },
+
+
 
    ];
 
