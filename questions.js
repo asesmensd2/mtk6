@@ -7,31 +7,31 @@ const questions = [
     },
     {
         soal: "",
-        gambar: "mtk6a1-soal-no2.jpg",
+        gambar: "mtk6a1-soal-no2.JPG",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih A"
     },
     {
         soal: "",
-        gambar: "mtk6a1-soal-no3.jpg",
+        gambar: "mtk6a1-soal-no3.JPG",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih D"
     },
     {
         soal: "",
-        gambar: "mtk6a1-soal-no4.jpg",
+        gambar: "mtk6a1-soal-no4.JPG",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih B"
     },
 {
         soal: "",
-        gambar: "mtk6a1-soal-no5.jpg",
+        gambar: "mtk6a1-soal-no5.JPG",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih A"
     },
     {
         soal: "",
-        gambar: "mtk6a1-soal-no6.jpg",
+        gambar: "mtk6a1-soal-no6.JPG",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih B"
     },
