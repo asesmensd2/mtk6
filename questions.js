@@ -1,7 +1,7 @@
 const questions = [
     {
         soal: "",
-        gambar: "mtk6a1-soal-no1.jpg",
+        gambar: "mtk6a1-soal-no1.JPG",
         pilihan: ["Pilih A", "Pilih B", "Pilih C", "Pilih D"],
         jawabanBenar: "Pilih B"
     },
